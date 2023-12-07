@@ -1,8 +1,4 @@
 import random
-import os
-
-#if(os.path.isfile('StartFile.txt')):
-#    os.remove('StartFile.txt')
 
 f = open('StartFile2.txt','w')
 
